@@ -1,7 +1,7 @@
 ---
 title: "Emily O'Neil"
 author: "EO"
-format: html
+format: gfm
 editor: visual
 ---
 
@@ -33,7 +33,7 @@ May '23 –Pres. Cornell University, Dr. Scott McArt Lab, Ithaca, NY — *Techni
 
 May ‘23 – Pres. NYS Beekeeper Tech Team, Dyce Lab, Ithaca, NY — *Research Aide*
 
--    Sample participating beekeepers' hives to measure colony health and pesticide residues and provide best management practices.
+-   Sample participating beekeepers' hives to measure colony health and pesticide residues and provide best management practices.
 
 May ‘21 – May ’23 The Best Bees Company, Boston, MA — *Staff Scientist*
 
