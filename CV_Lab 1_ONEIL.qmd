@@ -1,13 +1,9 @@
 ---
-title: "Emily O'Neil"
-author: "EO"
+title: "Curriculum Vitae"
+author: "Emily O'Neil"
 format: gfm
 editor: visual
 ---
-
-## *Curriculum Vitae*
-
-# Emily O'Neil
 
 ------------------------------------------------------------------------
 

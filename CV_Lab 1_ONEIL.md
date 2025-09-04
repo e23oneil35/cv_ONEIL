@@ -1,9 +1,5 @@
-# Emily O’Neil
-EO
-
-## *Curriculum Vitae*
-
-# Emily O’Neil
+# Curriculum Vitae
+Emily O’Neil
 
 ------------------------------------------------------------------------
 
