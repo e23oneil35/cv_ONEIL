@@ -1,0 +1,86 @@
+---
+title: "Emily O'Neil"
+author: "EO"
+format: html
+editor: visual
+---
+
+## *Curriculum Vitae*
+
+# Emily O'Neil
+
+------------------------------------------------------------------------
+
+### [Education:]{.underline}
+
+#### Ithaca College, Department of the Environment
+
+#### **Bachelor of Science, Environmental Science**
+
+##### Concentration: Environmental Science & Sustainability
+
+##### Minor: Education & Environmental Outreach through Honey bees
+
+##### Honors: Cum Laude, Dean's List (Sp. 20)
+
+##### Relevant areas of study: ecology; insect and field biology; ecotoxicology; extension; science communication; geo-spatial analysis (GIS); Natural Resources
+
+### [Research & Professional Experience]{.underline}
+
+May '23 –Pres. Cornell University, Dr. Scott McArt Lab, Ithaca, NY — *Technician III*
+
+-   Manage 40-60 honeybee colonies for research, extension and education; assist in applied beekeeping research, ecotoxicology and disease research; assist graduate students with projects e.g. USDA OREI Project
+
+May ‘23 – Pres. NYS Beekeeper Tech Team, Dyce Lab, Ithaca, NY — *Research Aide*
+
+-    Sample participating beekeepers' hives to measure colony health and pesticide residues and provide best management practices.
+
+May ‘21 – May ’23 The Best Bees Company, Boston, MA — *Staff Scientist*
+
+-   Developed Native Pollinator Initiative promoting native plants and pollinators in ecosystems; lead R&D in internal research projects; managed all research collaborations; information Operations best management practices; conducted and designed internal research study for publication; pioneered collaborations in remote-sensing and AI technologies for beekeeping
+
+May '18 – May '21 Ithaca College, Dr. Jason Hamilton, Ithaca, NY — *Lab Manager*
+
+-   Responsible for maintaining and organizing all materials and resources used for classes and activities in department; Prepare content to support classroom education; Communicate daily with department Professors on research project needs
+
+May ‘18 – May ‘21 South Hill Apiary, Ithaca, NY — *Head Beekeeper*
+
+-   Manage 25 honey bee colonies for educational and outreach purposes; lead educational tours; conducted bi-weekly inspections
+
+### Publications
+
+**O'Neil, E**., Culbert, K., Thompson III, R., & Wilson-Rich, N. (2025) "Why are Our Bees Dying? The Significance of Native Plants in Foraging and the Interplay of Parasites and Pathogens as Contributing Factors to Honey Bee (Apis mellifera) Colony Health." MDPI, *Social Insects and Apiculture*, 2025 (in review)
+
+**O'Neil, E**., Cass, R., Mills, A., & McArt, S. (2025) NYS Beekeeper Tech Team Sprin Honey Bee Health Report. Cornell University College of Agriculture and Life Sciences and New York State Department of Agriculture and Markets.
+
+**O’Neil, E**., Mills, A., & McArt, S. (2025). NYS Tech Team 2024 Annual Honey Bee Health Report. Cornell University College of Agriculture and Life Sciences and New York State Department of Agriculture and Markets. <https://cornell.app.box.com/v/2024-tech-team-annual-report>
+
+Hinsley, C., **O’Neil, E.**, DeMoras, B., Mills, A., & McArt, S. (2024). NYS Beekeeper Tech Team 2024 Spring Honey Bee Health Report. Cornell University College of Agriculture and Life Sciences and New York State Department of Agriculture and Markets. <https://cornell.app.box.com/v/2024-tech-team-spring-report>
+
+### Certifications
+
+2020-2022 Cornell University, Master Beekeeper Course, Ithaca, NY- Master Beekeeper Certification
+
+### Presentations & Talks
+
+“Why Bees are Dying: Measuring the effects of environmental stressors on honeybee colony health" (2022, October). San Jose Beekeepers Association. 50 Attendees.
+
+Environmental Outreach through the Ithaca College Apiary (2019, July) Ithaca College Summer Scholars Ithaca, NY.
+
+E’S Bees; Consulting Business and Community Outreach (2020-Present). Boston MA; Ithaca, NY.
+
+### Leadership & Involvement
+
+2022 – Pres. Fellowship of Apis Research Review — *Member*
+
+2023 – Pres. Empire State Honey Producers Association — *Member*
+
+2022 – Pres. Finger lakes Beekeeping Club, Ithaca, NY — *Co-Apiary Manager/Member*
+
+2022 – Pres. Eastern Apicultural Society Member — *Member*
+
+Fall 2019 Ecological Applications: The Nature and Necessity of Bees - *TA*
+
+Summer 2019 Ithaca College Summer Scholar – *Awardee*
+
+2017- 2018 Ithaca College Women’s Basketball Team – *Player*
